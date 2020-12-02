@@ -10,3 +10,5 @@ tags={
 name="Long Winter"
 supported_version="1.10.3"
 path="mod/longwinter/"
+
+# Copy file into /mod
