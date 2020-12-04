@@ -48,7 +48,7 @@ guiTypes = {
 	### MAIN MENU PANEL (upperleft)
 	containerWindowType = {
 		name = "mainmenu_panel_upperleft"
-		position = { x = 0 y = -200 }
+		position = { x = 0 y = -450 }
 		show_position = { x = 0 y = -1 }
 		animation_type = decelerated
 		animation_time = 1000
@@ -393,7 +393,7 @@ guiTypes = {
 			name = "nudge_button"
 			position = { x = 30 y = 200 }
 			quadTextureSprite = "GFX_main_menu_button"
-			buttonText = "anime mode jk its nudge"
+			buttonText = "   anime mode jk its nudge"
 			buttonFont = "hoi_24header"
 			clicksound = click_default
 			oversound = ui_menu_over
