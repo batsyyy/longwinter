@@ -32,4 +32,25 @@ spriteTypes = {
 	
 		legacy_lazy_load = no
 	}
+
+	spriteType = {
+		name = "GFX_main_menu_bg"
+		texturefile = "gfx/interface/main_menu_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_main_menu_button"
+		texturefile = "gfx/interface/main_menu_button.dds"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+	spriteType = {
+		name = "GFX_main_menu_button_top"
+		texturefile = "gfx/interface/main_menu_button_top.dds"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+	spriteType = {
+		name = "GFX_main_menu_logo"
+		texturefile = "gfx/interface/main_menu_logo.dds"
+	}
 }
