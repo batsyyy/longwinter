@@ -393,14 +393,14 @@ guiTypes = {
 			name = "nudge_button"
 			position = { x = 30 y = 200 }
 			quadTextureSprite = "GFX_main_menu_button"
-			buttonText = ""
+			buttonText = "anime mode jk its nudge"
 			buttonFont = "hoi_24header"
 			clicksound = click_default
 			oversound = ui_menu_over
 		}
 
 		instantTextBoxType = {
-			position = { x = 40 y = 218 }
+			position = { x = -9940 y = 218 }
 			name = "nudge_button_text"
 			font = "hoi_24header"
 			maxWidth = 370
