@@ -399,18 +399,6 @@ guiTypes = {
 			oversound = ui_menu_over
 		}
 
-		instantTextBoxType = {
-			position = { x = -9940 y = 218 }
-			name = "nudge_button_text"
-			font = "hoi_24header"
-			maxWidth = 370
-			maxHeight = 16
-			text = "anime mode jk its nudge"
-			format = center
-			fixedsize = yes
-			alwaystransparent = yes
-		}
-
 		ButtonType = {
 			name = "exit_button"
 			position = { x = 30 y = 250 }
