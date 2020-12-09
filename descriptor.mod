@@ -27,4 +27,8 @@ replace_path="common/units/names"
 replace_path="common/units/names_ships"
 replace_path="common/units/codenames_operatives"
 replace_path="common/country_tags"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+replace_path="history/units"
+
 supported_version="1.10.3"
