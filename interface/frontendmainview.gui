@@ -393,7 +393,7 @@ guiTypes = {
 			name = "nudge_button"
 			position = { x = 30 y = 200 }
 			quadTextureSprite = "GFX_main_menu_button"
-			buttonText = "     nudge"
+			buttonText = "   nudge"
 			buttonFont = "hoi_24header"
 			clicksound = click_default
 			oversound = ui_menu_over
