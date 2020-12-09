@@ -4,11 +4,11 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "BAT"
+		default_country = "FRA"
 		default = yes
-
-		BAT ={
-			history = "BAT_GATHERING_STORM_DESC"
+		
+		"FRA"={
+			history = "FRA_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 			}
