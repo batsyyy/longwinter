@@ -1,0 +1,8 @@
+﻿# just an example name your files like this
+division_template = {
+	name = "Infantry Division"
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+	}
+}

@@ -1,0 +1,35 @@
+capital = 1
+
+oob = "LW_empty"
+
+set_stability = 0.90
+set_war_support = 0.90
+
+set_research_slots = 4
+
+add_ideas = {
+}
+
+set_technology = {
+}
+
+set_convoys = 100
+
+set_politics = {
+	ruling_party = democratic
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 100
+}
+
+create_country_leader = {
+	name = "Batsy"
+	desc = ""
+	picture = "batsy.dds"
+	expire = "2000.1.1"
+	ideology = centrism
+	traits = {
+	}
+}

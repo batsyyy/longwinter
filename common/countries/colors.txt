@@ -1,0 +1,7 @@
+#reload countrycolors
+
+# Western Europe
+BAT = {
+	color = rgb { 184 122 20 }
+	color_ui = rgb { 204 142 40 }
+}
