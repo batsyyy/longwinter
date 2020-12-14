@@ -6,6 +6,15 @@ type={
 	object={
 		name="frame_border_entity_top"
 		position={
+			0.000 0.000 0.000 
+		}
+		rotation={
+			90.000 90.000 0.000 
+		}
+	}
+	object={
+		name="frame_border_entity_top"
+		position={
 			0.000 0.000 2959.000 
 		}
 		rotation={
